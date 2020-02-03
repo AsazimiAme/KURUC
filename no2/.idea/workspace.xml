@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="no1" targetName="no1" />
+      <config projectName="no2" targetName="no2" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9af1d5bc-ebcc-4f37-a961-1c5aad6e36e4" name="Default" comment="" />
+    <list default="true" id="f63af935-9533-4c03-9b64-66269c55e02b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="48">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -57,17 +57,17 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="953" />
-    <option name="y" value="326" />
+    <option name="y" value="324" />
     <option name="width" value="974" />
-    <option name="height" value="761" />
+    <option name="height" value="763" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,12 +88,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.no1">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="no1" RUN_TARGET_NAME="no1" EXPLICIT_BUILD_TARGET_NAME="all" />
-    <configuration name="no1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="no1" TARGET_NAME="no1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="no1" RUN_TARGET_NAME="no1" />
+  <component name="RunManager" selected="Application.no2">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="no2" RUN_TARGET_NAME="no2" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="no2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="no2" TARGET_NAME="no2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="no2" RUN_TARGET_NAME="no2" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.no1" />
+      <item itemvalue="Application.no2" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -101,28 +101,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9af1d5bc-ebcc-4f37-a961-1c5aad6e36e4" name="Default" comment="" />
-      <created>1580734512320</created>
+      <changelist id="f63af935-9533-4c03-9b64-66269c55e02b" name="Default" comment="" />
+      <created>1580735120501</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580734512320</updated>
-      <workItem from="1580734513795" duration="606000" />
+      <updated>1580735120501</updated>
+      <workItem from="1580735121967" duration="261000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="606000" />
+    <option name="totallyTimeSpent" value="261000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="326" width="974" height="761" extended-state="0" />
+    <frame x="953" y="324" width="974" height="763" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19103523" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32744783" />
+      <window_info anchor="bottom" id="Messages" weight="0.3296" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32744783" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -149,8 +149,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="48">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
