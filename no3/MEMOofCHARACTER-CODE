@@ -1,0 +1,11 @@
+Character Code: Shift-JIS
+CHCP Shift-JIS: 932
+memo;
+CHCP
+ UTF-8 : 65001
+ US-ASCII : 20127
+ EUC-JP : 51932
+
+I can type just "chcp" in the terminal to check character code of the terminal.
+If I want to set character code of the terminal,
+I can type like "chcp 932"(I can set character code to Shift-JIS).

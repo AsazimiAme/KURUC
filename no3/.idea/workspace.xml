@@ -59,11 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="t7.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="t7.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t7.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="144">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterCode" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CharacterCode">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -84,6 +93,7 @@
         <option value="$PROJECT_DIR$/t5.cpp" />
         <option value="$PROJECT_DIR$/t6.cpp" />
         <option value="$PROJECT_DIR$/t7.cpp" />
+        <option value="$PROJECT_DIR$/CharacterCode" />
       </list>
     </option>
   </component>
@@ -160,12 +170,12 @@
       <updated>1580819315732</updated>
       <workItem from="1580819317350" duration="1309000" />
       <workItem from="1580820638863" duration="426000" />
-      <workItem from="1580821076693" duration="2076000" />
+      <workItem from="1580821076693" duration="2611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3811000" />
+    <option name="totallyTimeSpent" value="4346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="950" y="324" width="977" height="763" extended-state="0" />
@@ -281,8 +291,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/t7.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="144">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CharacterCode">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
