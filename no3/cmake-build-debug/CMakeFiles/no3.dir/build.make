@@ -128,11 +128,136 @@ CMakeFiles/no3.dir/t2.cpp.obj.provides: CMakeFiles/no3.dir/t2.cpp.obj.requires
 CMakeFiles/no3.dir/t2.cpp.obj.provides.build: CMakeFiles/no3.dir/t2.cpp.obj
 
 
+CMakeFiles/no3.dir/t3.cpp.obj: CMakeFiles/no3.dir/flags.make
+CMakeFiles/no3.dir/t3.cpp.obj: ../t3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLion\KURUC\no3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/no3.dir/t3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\no3.dir\t3.cpp.obj -c D:\CLion\KURUC\no3\t3.cpp
+
+CMakeFiles/no3.dir/t3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/no3.dir/t3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLion\KURUC\no3\t3.cpp > CMakeFiles\no3.dir\t3.cpp.i
+
+CMakeFiles/no3.dir/t3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/no3.dir/t3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLion\KURUC\no3\t3.cpp -o CMakeFiles\no3.dir\t3.cpp.s
+
+CMakeFiles/no3.dir/t3.cpp.obj.requires:
+
+.PHONY : CMakeFiles/no3.dir/t3.cpp.obj.requires
+
+CMakeFiles/no3.dir/t3.cpp.obj.provides: CMakeFiles/no3.dir/t3.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\no3.dir\build.make CMakeFiles/no3.dir/t3.cpp.obj.provides.build
+.PHONY : CMakeFiles/no3.dir/t3.cpp.obj.provides
+
+CMakeFiles/no3.dir/t3.cpp.obj.provides.build: CMakeFiles/no3.dir/t3.cpp.obj
+
+
+CMakeFiles/no3.dir/t4.cpp.obj: CMakeFiles/no3.dir/flags.make
+CMakeFiles/no3.dir/t4.cpp.obj: ../t4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLion\KURUC\no3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/no3.dir/t4.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\no3.dir\t4.cpp.obj -c D:\CLion\KURUC\no3\t4.cpp
+
+CMakeFiles/no3.dir/t4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/no3.dir/t4.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLion\KURUC\no3\t4.cpp > CMakeFiles\no3.dir\t4.cpp.i
+
+CMakeFiles/no3.dir/t4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/no3.dir/t4.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLion\KURUC\no3\t4.cpp -o CMakeFiles\no3.dir\t4.cpp.s
+
+CMakeFiles/no3.dir/t4.cpp.obj.requires:
+
+.PHONY : CMakeFiles/no3.dir/t4.cpp.obj.requires
+
+CMakeFiles/no3.dir/t4.cpp.obj.provides: CMakeFiles/no3.dir/t4.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\no3.dir\build.make CMakeFiles/no3.dir/t4.cpp.obj.provides.build
+.PHONY : CMakeFiles/no3.dir/t4.cpp.obj.provides
+
+CMakeFiles/no3.dir/t4.cpp.obj.provides.build: CMakeFiles/no3.dir/t4.cpp.obj
+
+
+CMakeFiles/no3.dir/t5.cpp.obj: CMakeFiles/no3.dir/flags.make
+CMakeFiles/no3.dir/t5.cpp.obj: ../t5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLion\KURUC\no3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/no3.dir/t5.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\no3.dir\t5.cpp.obj -c D:\CLion\KURUC\no3\t5.cpp
+
+CMakeFiles/no3.dir/t5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/no3.dir/t5.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLion\KURUC\no3\t5.cpp > CMakeFiles\no3.dir\t5.cpp.i
+
+CMakeFiles/no3.dir/t5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/no3.dir/t5.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLion\KURUC\no3\t5.cpp -o CMakeFiles\no3.dir\t5.cpp.s
+
+CMakeFiles/no3.dir/t5.cpp.obj.requires:
+
+.PHONY : CMakeFiles/no3.dir/t5.cpp.obj.requires
+
+CMakeFiles/no3.dir/t5.cpp.obj.provides: CMakeFiles/no3.dir/t5.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\no3.dir\build.make CMakeFiles/no3.dir/t5.cpp.obj.provides.build
+.PHONY : CMakeFiles/no3.dir/t5.cpp.obj.provides
+
+CMakeFiles/no3.dir/t5.cpp.obj.provides.build: CMakeFiles/no3.dir/t5.cpp.obj
+
+
+CMakeFiles/no3.dir/t6.cpp.obj: CMakeFiles/no3.dir/flags.make
+CMakeFiles/no3.dir/t6.cpp.obj: ../t6.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLion\KURUC\no3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/no3.dir/t6.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\no3.dir\t6.cpp.obj -c D:\CLion\KURUC\no3\t6.cpp
+
+CMakeFiles/no3.dir/t6.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/no3.dir/t6.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLion\KURUC\no3\t6.cpp > CMakeFiles\no3.dir\t6.cpp.i
+
+CMakeFiles/no3.dir/t6.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/no3.dir/t6.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLion\KURUC\no3\t6.cpp -o CMakeFiles\no3.dir\t6.cpp.s
+
+CMakeFiles/no3.dir/t6.cpp.obj.requires:
+
+.PHONY : CMakeFiles/no3.dir/t6.cpp.obj.requires
+
+CMakeFiles/no3.dir/t6.cpp.obj.provides: CMakeFiles/no3.dir/t6.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\no3.dir\build.make CMakeFiles/no3.dir/t6.cpp.obj.provides.build
+.PHONY : CMakeFiles/no3.dir/t6.cpp.obj.provides
+
+CMakeFiles/no3.dir/t6.cpp.obj.provides.build: CMakeFiles/no3.dir/t6.cpp.obj
+
+
+CMakeFiles/no3.dir/t7.cpp.obj: CMakeFiles/no3.dir/flags.make
+CMakeFiles/no3.dir/t7.cpp.obj: ../t7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLion\KURUC\no3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/no3.dir/t7.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\no3.dir\t7.cpp.obj -c D:\CLion\KURUC\no3\t7.cpp
+
+CMakeFiles/no3.dir/t7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/no3.dir/t7.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLion\KURUC\no3\t7.cpp > CMakeFiles\no3.dir\t7.cpp.i
+
+CMakeFiles/no3.dir/t7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/no3.dir/t7.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLion\KURUC\no3\t7.cpp -o CMakeFiles\no3.dir\t7.cpp.s
+
+CMakeFiles/no3.dir/t7.cpp.obj.requires:
+
+.PHONY : CMakeFiles/no3.dir/t7.cpp.obj.requires
+
+CMakeFiles/no3.dir/t7.cpp.obj.provides: CMakeFiles/no3.dir/t7.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\no3.dir\build.make CMakeFiles/no3.dir/t7.cpp.obj.provides.build
+.PHONY : CMakeFiles/no3.dir/t7.cpp.obj.provides
+
+CMakeFiles/no3.dir/t7.cpp.obj.provides.build: CMakeFiles/no3.dir/t7.cpp.obj
+
+
 # Object files for target no3
 no3_OBJECTS = \
 "CMakeFiles/no3.dir/main.cpp.obj" \
 "CMakeFiles/no3.dir/t1.cpp.obj" \
-"CMakeFiles/no3.dir/t2.cpp.obj"
+"CMakeFiles/no3.dir/t2.cpp.obj" \
+"CMakeFiles/no3.dir/t3.cpp.obj" \
+"CMakeFiles/no3.dir/t4.cpp.obj" \
+"CMakeFiles/no3.dir/t5.cpp.obj" \
+"CMakeFiles/no3.dir/t6.cpp.obj" \
+"CMakeFiles/no3.dir/t7.cpp.obj"
 
 # External object files for target no3
 no3_EXTERNAL_OBJECTS =
@@ -140,11 +265,16 @@ no3_EXTERNAL_OBJECTS =
 no3.exe: CMakeFiles/no3.dir/main.cpp.obj
 no3.exe: CMakeFiles/no3.dir/t1.cpp.obj
 no3.exe: CMakeFiles/no3.dir/t2.cpp.obj
+no3.exe: CMakeFiles/no3.dir/t3.cpp.obj
+no3.exe: CMakeFiles/no3.dir/t4.cpp.obj
+no3.exe: CMakeFiles/no3.dir/t5.cpp.obj
+no3.exe: CMakeFiles/no3.dir/t6.cpp.obj
+no3.exe: CMakeFiles/no3.dir/t7.cpp.obj
 no3.exe: CMakeFiles/no3.dir/build.make
 no3.exe: CMakeFiles/no3.dir/linklibs.rsp
 no3.exe: CMakeFiles/no3.dir/objects1.rsp
 no3.exe: CMakeFiles/no3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLion\KURUC\no3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable no3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\CLion\KURUC\no3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable no3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\no3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -155,6 +285,11 @@ CMakeFiles/no3.dir/build: no3.exe
 CMakeFiles/no3.dir/requires: CMakeFiles/no3.dir/main.cpp.obj.requires
 CMakeFiles/no3.dir/requires: CMakeFiles/no3.dir/t1.cpp.obj.requires
 CMakeFiles/no3.dir/requires: CMakeFiles/no3.dir/t2.cpp.obj.requires
+CMakeFiles/no3.dir/requires: CMakeFiles/no3.dir/t3.cpp.obj.requires
+CMakeFiles/no3.dir/requires: CMakeFiles/no3.dir/t4.cpp.obj.requires
+CMakeFiles/no3.dir/requires: CMakeFiles/no3.dir/t5.cpp.obj.requires
+CMakeFiles/no3.dir/requires: CMakeFiles/no3.dir/t6.cpp.obj.requires
+CMakeFiles/no3.dir/requires: CMakeFiles/no3.dir/t7.cpp.obj.requires
 
 .PHONY : CMakeFiles/no3.dir/requires
 

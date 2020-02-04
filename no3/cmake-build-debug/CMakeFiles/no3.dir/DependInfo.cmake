@@ -7,6 +7,11 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLion/KURUC/no3/main.cpp" "D:/CLion/KURUC/no3/cmake-build-debug/CMakeFiles/no3.dir/main.cpp.obj"
   "D:/CLion/KURUC/no3/t1.cpp" "D:/CLion/KURUC/no3/cmake-build-debug/CMakeFiles/no3.dir/t1.cpp.obj"
   "D:/CLion/KURUC/no3/t2.cpp" "D:/CLion/KURUC/no3/cmake-build-debug/CMakeFiles/no3.dir/t2.cpp.obj"
+  "D:/CLion/KURUC/no3/t3.cpp" "D:/CLion/KURUC/no3/cmake-build-debug/CMakeFiles/no3.dir/t3.cpp.obj"
+  "D:/CLion/KURUC/no3/t4.cpp" "D:/CLion/KURUC/no3/cmake-build-debug/CMakeFiles/no3.dir/t4.cpp.obj"
+  "D:/CLion/KURUC/no3/t5.cpp" "D:/CLion/KURUC/no3/cmake-build-debug/CMakeFiles/no3.dir/t5.cpp.obj"
+  "D:/CLion/KURUC/no3/t6.cpp" "D:/CLion/KURUC/no3/cmake-build-debug/CMakeFiles/no3.dir/t6.cpp.obj"
+  "D:/CLion/KURUC/no3/t7.cpp" "D:/CLion/KURUC/no3/cmake-build-debug/CMakeFiles/no3.dir/t7.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

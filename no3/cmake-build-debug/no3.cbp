@@ -91,6 +91,21 @@
 		<Unit filename="D:/CLion/KURUC/no3/t2.cpp">
 			<Option target="no3"/>
 		</Unit>
+		<Unit filename="D:/CLion/KURUC/no3/t3.cpp">
+			<Option target="no3"/>
+		</Unit>
+		<Unit filename="D:/CLion/KURUC/no3/t4.cpp">
+			<Option target="no3"/>
+		</Unit>
+		<Unit filename="D:/CLion/KURUC/no3/t5.cpp">
+			<Option target="no3"/>
+		</Unit>
+		<Unit filename="D:/CLion/KURUC/no3/t6.cpp">
+			<Option target="no3"/>
+		</Unit>
+		<Unit filename="D:/CLion/KURUC/no3/t7.cpp">
+			<Option target="no3"/>
+		</Unit>
 		<Unit filename="D:/CLion/KURUC/no3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

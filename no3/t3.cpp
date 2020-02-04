@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int mai2(void){
-    printf("%d+%d=%d",100,150,250);
+int mai3(void){
+    printf("%d\n",100+200);
     return 0;
 }
 //

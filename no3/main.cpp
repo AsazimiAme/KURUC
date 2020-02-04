@@ -1,5 +1,5 @@
 #include <iostream>
 
-int dtest() {
+int mai0() {
     return 0;
 }
